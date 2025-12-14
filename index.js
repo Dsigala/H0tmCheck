@@ -72,7 +72,7 @@ class MailHubApp {
             });
 
             // Show completion message
-            Display.showSuccess('Thank you for using HOTKU MailHub Mass Checker!');
+            Display.showSuccess('Thank you for using H0tmCheck!');
             Display.showInfo('Check the valid.txt file for successful login credentials.');
             Display.showInfo(`Detailed results saved in: ${userConfig.outputDir}`);
 
