@@ -60,5 +60,5 @@ Autor – @Dsigala
 
 Desarrollador original
 
-# 🔥 H0tmCheck – Solución profesional para verificación de correos electrónicos
+# ⭐ Si te gusta este proyecto, dale una estrella en GitHub!
 Desarrollado por Sigala
