@@ -1,0 +1,25 @@
+#!/usr/bin/env node
+
+/**
+ * HotmCheck CLI Entry Point
+ * @author Dsigala
+ * @version 1.0.0
+ */
+
+const { HotmCheckApp } = require('../index.js');
+
+async function main() {
+    try {
+        console.log('🔥 HotmCheck - Mass Email Checker CLI');
+        console.log('Author: Dsigala\n');
+        
+        const app = new HotmCheckApp();
+        await app.run();
+    } catch (error) {
+        console.error('❌ CLI Error:', error.message);
+        process.exit(1);
+    }
+}
+
+// Run CLI
+main();

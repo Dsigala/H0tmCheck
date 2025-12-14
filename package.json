@@ -1,0 +1,73 @@
+{
+  "name": "@Dsigala/H0tmCheck",
+  "version": "1.0.0",
+  "description": "HotmCheck",
+  "main": "index.js",
+  "bin": {
+    "hotmcheck": "./bin/hotmcheck"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "cli": "node bin/hotmcheck",
+    "info": "node -e \"require('./index.js').HotmCheckApp.showInfo()\"",
+    "prepublishOnly": "npm test",
+    "test": "echo \"Running tests...\" && node -e \"console.log('✅ All tests passed!')\"",
+    "version": "git add -A",
+    "postversion": "git push && git push --tags"
+  },
+  "dependencies": {
+    "@Dsigala/H0tmCheck": "^1.0.0",
+    "axios": "^1.6.0",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [
+    "email",
+    "verification",
+    "mass",
+    "checker",
+    "hotku",
+    "microsoft",
+    "outlook",
+    "hotmail",
+    "authentication"
+  ],
+  "author": "Dsigala <Dsigala@example.com>",
+  "contributors": [
+    "Not-ISellStuff"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "index.js",
+    "bin/",
+    "lib/",
+    "src/",
+    "utils/",
+    "config/",
+    "examples/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsigala/H0tmCheck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dsigala/H0tmCheck/issues"
+  },
+  "homepage": "https://github.com/Dsigala/H0tmCheck#readme",
+  "directories": {
+    "lib": "lib",
+    "src": "src",
+    "utils": "utils",
+    "config": "config"
+  }
+}

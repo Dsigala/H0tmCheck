@@ -1,0 +1,3 @@
+example1@outlook.com:password123
+example2@hotmail.com:testpass456
+sample@live.com:samplepass789
