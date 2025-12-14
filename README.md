@@ -1,5 +1,8 @@
-🔥 H0tmCheck
-✨ Características
+# 🔥 H0tmCheck
+
+<img width="850" height="496" alt="image" src="https://github.com/user-attachments/assets/d9e475ae-8b20-4c70-ba03-1bf44c7adde4" />
+
+# ✨ Características
 
 ✅ Verificación masiva de correos – Verifica miles de emails al mismo tiempo
 
@@ -18,7 +21,7 @@
 📦 Fácil integración – Se puede integrar fácilmente en otros proyectos
 
 
-🛠️ Instalación
+# 🛠️ Instalación
 
 git clone https://github.com/Dsigala/H0tmCheck.git
 
@@ -29,7 +32,7 @@ npm install
 npm start
 
 
-📝 Formatos de Archivo
+# 📝 Formatos de Archivo
 
 ### Combo File Format
 
@@ -39,7 +42,7 @@ user@hotmail.com:mypassword
 test@live.com:testpass456
 ```
 
-🔒 Seguridad y Ética
+# 🔒 Seguridad y Ética
 
 ⚠️ Uso legal únicamente: Esta herramienta es solo para pruebas con credenciales legítimas
 
@@ -51,11 +54,11 @@ test@live.com:testpass456
 
 🛡️ Uso responsable: Utiliza la herramienta de forma ética y responsable
 
-👨‍💻 Autores
+# 👨‍💻 Autores
 
 Autor – @Dsigala
 
 Desarrollador original
 
-🔥 H0tmCheck – Solución profesional para verificación de correos electrónicos
+# 🔥 H0tmCheck – Solución profesional para verificación de correos electrónicos
 Desarrollado por Sigala
