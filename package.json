@@ -17,7 +17,6 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "@Dsigala/H0tmCheck": "^1.0.0",
     "axios": "^1.6.0",
     "readline-sync": "^1.4.10"
   },
@@ -26,7 +25,6 @@
     "verification",
     "mass",
     "checker",
-    "hotku",
     "microsoft",
     "outlook",
     "hotmail",
